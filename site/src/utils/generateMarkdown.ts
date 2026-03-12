@@ -1,5 +1,4 @@
 import type { Chapter } from '../data/chapters'
-import type { QAItem, ConcreteExample } from '../data/qa'
 import { chapterQA, concreteExamples } from '../data/qa'
 import { chapters, keyMessages, timeline } from '../data/chapters'
 
